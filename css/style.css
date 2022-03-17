@@ -5,6 +5,9 @@ body{
 
 .navbar{
     background-color: chartreuse;
+    width: 100%;
+    height: 10%;
+    position: fixed;
 }
 
 nav a img{
@@ -17,8 +20,8 @@ nav a img{
 }
 
 .margin{
-    padding-top: 30px;
-    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
 
 .parceiros{
